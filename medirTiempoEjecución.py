@@ -41,7 +41,7 @@ def factorial_rec(n):
     elif(n == 1):
         return 1
     else:
-        return factorial_rec(n-1) + factorial_rec(n-2)
+        return n * factorial_rec(n-1)
 
 ###########################
 # EJECUCIÓN
