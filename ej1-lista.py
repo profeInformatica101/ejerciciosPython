@@ -17,3 +17,12 @@ filtre los números pares
 # devuelve ---> [2,4]
 def filtra_lista_pares(lst):
     pass
+
+'''
+Definir una función que dado una lista y un número
+devuelva
+   - True si se encuentra el número en la lista
+   - False e.c.c.
+'''
+def busquda_num(lst, num):
+    pass
